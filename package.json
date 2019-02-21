@@ -1,0 +1,11 @@
+{
+  "name": "qstn",
+  "version": "1.0.0",
+  "description": "playing with the question package",
+  "main": "index.js",
+  "author": "Teddy Odhiambo <tedb19@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "questions": "^0.0.6"
+  }
+}
